@@ -1,7 +1,7 @@
 # Quadruped-Robot
  Youtube: https://www.youtube.com/watch?v=qa-fnuKnVPE
  
- PROJECT: Movement test of foot-mounted robot (VER 1.0)
+ PROJECT: Movement test of Quadruped-Robot (V1.0)
  
  - Software used: Vrep, Matlab, Arduino
  
