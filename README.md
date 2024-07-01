@@ -1,5 +1,6 @@
 # Quadruped-Robot
- Youtube: https://www.youtube.com/watch?v=qa-fnuKnVPE
+ Youtube v1: https://www.youtube.com/watch?v=qa-fnuKnVPE
+ Youtube v2: https://youtu.be/A_kb2D6phBk
  
  PROJECT: Movement test of Quadruped-Robot (V1.0)
  
